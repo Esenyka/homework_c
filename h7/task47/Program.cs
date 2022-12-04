@@ -1,8 +1,4 @@
-﻿double number = new Random().NextDouble();
-
- Console.WriteLine(Math.Round(number, 2));
-
-Console.Write("Введите колличество строк: ");
+﻿Console.Write("Введите колличество строк: ");
 int m = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите колличество столбцов: ");
