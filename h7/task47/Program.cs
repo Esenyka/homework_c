@@ -20,3 +20,4 @@ void FillAndPrint(double[,] t)
  }
 
  FillAndPrint(table);
+ 
